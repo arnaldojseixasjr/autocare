@@ -18,6 +18,12 @@ A **AutoCare** é um centro de estética automotiva que sofria com gargalos no a
 
 ---
 
+## 💻 3. Personalizações com Padrões Web (HTML, CSS e JavaScript)
+Para ir além dos componentes nativos da plataforma No-Code, foram injetados scripts personalizados via bloco *Custom Code*:
+
+* **HTML/CSS:** Interface personalizada com tema escuro (*Dark Mode*), seletores de porte de veículo e caixa de mensagens estilizada.
+* **JavaScript:** Função `calcularOrcamento()` que escuta a seleção do serviço e do porte do carro, processa o cálculo multiplicador e atualiza o valor na tela instantaneamente.
+
 ## 💻 4. Recurso Inteligente (IA / Automação)
 Implementação de um assistente virtual na tela que reconhece intenções de busca do cliente (ex: perguntas sobre polimento ou vitrificação) e fornece orientações personalizadas sobre o melhor tratamento para o veículo
 
