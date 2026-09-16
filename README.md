@@ -31,7 +31,7 @@ function calcularOrcamento() {
   let fatorPorte = parseFloat(document.getElementById('porte').value);
   let total = valorServico * fatorPorte;
   document.getElementById('resultado').innerText = "Total Estimado: R$ " + total.toFixed(2).replace('.', ',');
-}
+} //
 ---
 
 ## 💻 4. Recurso Inteligente (IA / Automação)
