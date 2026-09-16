@@ -23,7 +23,8 @@ Para ir além dos componentes nativos da plataforma No-Code, foram injetados scr
 
 * **HTML/CSS:** Interface personalizada com tema escuro (*Dark Mode*), seletores de porte de veículo e caixa de mensagens estilizada.
 * **JavaScript:** Função `calcularOrcamento()` que escuta a seleção do serviço e do porte do carro, processa o cálculo multiplicador e atualiza o valor na tela instantaneamente.
-    ```javascript
+  
+```javascript
 // Exemplo do cálculo executado no Front-end
 function calcularOrcamento() {
   let valorServico = parseFloat(document.getElementById('servico').value);
